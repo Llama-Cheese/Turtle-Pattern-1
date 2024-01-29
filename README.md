@@ -1,6 +1,6 @@
 # Hi
 This is a pattern made using the turtle library of Python
-There are some values given with a hashtag befor it, you can inset those values in place of 2 to change the color of the pattern
+There are some values given with a hashtag before them, you can insert those values to change the color of the pattern
 # Enjoy
 
 # How to download-
